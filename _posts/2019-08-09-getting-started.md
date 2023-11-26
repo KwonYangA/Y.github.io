@@ -1,7 +1,7 @@
 ---
-title: Getting Started
+title: 안녕하세요!
 author: cotes
-date: 2019-08-09 20:55:00 +0800
+date: 2023-11-26 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
@@ -9,6 +9,8 @@ img_path: '/posts/20180809'
 ---
 
 ## Prerequisites
+
+첫시작 test!!
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
